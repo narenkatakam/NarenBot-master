@@ -1,8 +1,9 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Naren, a Product Designer from Singapore.\n![naren](https://drive.google.com/file/d/0B16L-nKbRsvLeTVTaUUzVDlkdW8/preview)\nWant to know more about bots or learn about Naren? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Naren](postback:learn_about_naren) %[One random fact!](postback:random_fact)",
-    "HI": "Hi there!\nI’m the personal bot of Naren, a Product Designer from Singapore.\n![naren](https://drive.google.com/file/d/0B16L-nKbRsvLeTVTaUUzVDlkdW8/preview)\nWant to know more about bots or learn about Naren? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Naren](postback:learn_about_naren) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Naren, a Product Designer from Singapore.\n![naren](https://raw.githubusercontent.com/narenkatakam/NarenBot-master/master/img/Naren.png)\nWant to know more about Naren? %[Nah, I'm here for the bot](postback:here_for_the_bot) %[Learn more about Naren](postback:learn_about_naren) %[One random fact!](postback:random_fact)",
+    "HI": "Hi there!\nI’m the personal bot of Naren, a Product Designer from Singapore.\n![naren](https://raw.githubusercontent.com/narenkatakam/NarenBot-master/master/img/Naren.png)\nWant to know more about Naren? %[Nah, I'm here for the bot](postback:here_for_the_bot) %[Learn more about Naren](postback:learn_about_naren) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set NarenBot up! Do you want to tell Naren that you're talking to his bot? %[Tell her](postback:twitter)",
     "TELL HIM": "Let's tweet @in4ren so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Naren](http://bit.ly/estherbot-tweet)",
+    "THIS IS COOL": "Let's tweet @in4ren so he knows you like what you see. Here's a tweet that's ready to go: %[Tweet Naren](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awww! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NarenBot is back."
